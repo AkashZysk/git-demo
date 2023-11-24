@@ -1,4 +1,4 @@
-#github learning
+# github learning
 
 Learning about the basic git commands
 learnign about the branches 
